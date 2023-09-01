@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "get_header_datas",
+  "info": {
+    "singularName": "get-header-data",
+    "pluralName": "get-header-datas",
+    "displayName": "get-header-data"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Headerdata": {
+      "type": "json"
+    }
+  }
+}

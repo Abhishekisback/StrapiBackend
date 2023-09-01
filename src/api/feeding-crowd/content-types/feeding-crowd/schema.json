@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "feeding_crowds",
+  "info": {
+    "singularName": "feeding-crowd",
+    "pluralName": "feeding-crowds",
+    "displayName": "FeedingCrowd"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "feedingcrowdsection": {
+      "type": "json"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "get_navbar_fields",
+  "info": {
+    "singularName": "get-navbar-field",
+    "pluralName": "get-navbar-fields",
+    "displayName": "get-navbar-field"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "NavbarArray": {
+      "type": "json"
+    }
+  }
+}

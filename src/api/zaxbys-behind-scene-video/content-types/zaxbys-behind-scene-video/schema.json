@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "zaxbys_behind_scene_videos",
+  "info": {
+    "singularName": "zaxbys-behind-scene-video",
+    "pluralName": "zaxbys-behind-scene-videos",
+    "displayName": "zaxbys-behind-scene-video"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "video_url": {
+      "type": "string"
+    }
+  }
+}

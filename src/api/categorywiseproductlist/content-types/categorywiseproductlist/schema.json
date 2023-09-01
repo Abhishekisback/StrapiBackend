@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "categorywiseproductlists",
+  "info": {
+    "singularName": "categorywiseproductlist",
+    "pluralName": "categorywiseproductlists",
+    "displayName": "categorywiseproductlist",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Productname": {
+      "type": "string"
+    },
+    "Price": {
+      "type": "decimal"
+    },
+    "description": {
+      "type": "string"
+    },
+    "imageurl": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    }
+  }
+}
